@@ -1,3 +1,4 @@
+/* Author: Macanthony Ahaotu */
 import javax.swing.*;
 public class BMI
 {
